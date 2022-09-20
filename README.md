@@ -1,6 +1,6 @@
 # Hello world
 
-In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them!
+In this project, I set up a "Hello world" repository. No complex coding was required for this exercise. The goal here was to master all of the tools and best practices you learned about in previous steps.
 
 ## Built With
 
@@ -9,34 +9,21 @@ In this project, you will set up a "Hello world" repository. No complex coding i
 - Linters
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
+- Create GitHub repository
+- Have VSCode or choide text editor installed
+- Have Git installed
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- git clone `https://github.com/Linushaddai99/Hello-world.git`
+- cd Hello-world
 
 
+## Author
+👤 **Linus Shaddai**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/Linushaddai99)
-- Twitter: [@twitterhandle](https://twitter.com/ShaddaiLinus)
+- GitHub: [@Linushaddai99](https://github.com/Linushaddai99)
+- Twitter: [@ShaddaiLinus](https://twitter.com/ShaddaiLinus)
 
 
 ## Show your support
