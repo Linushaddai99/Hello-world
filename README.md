@@ -6,6 +6,6 @@ This project helps me practice the Github Flow which includes
 4. Marge your request
 5. Delete your branch
 
-Languages used Address
+Languages used are
 1. Html
 2. Css
